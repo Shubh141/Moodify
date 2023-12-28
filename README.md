@@ -27,7 +27,8 @@ Elevate your music journey with Moodify - where your mood sets the rhythm! 🎶
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Uploading m3.png…]()
+<img width="1470" alt="m5" src="https://github.com/Shubh141/Moodify/assets/95948346/66714b78-72c6-40a2-ad5b-eaeae9b935ed">
+
 
 
 ## Setup
